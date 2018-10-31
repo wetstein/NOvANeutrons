@@ -24,3 +24,6 @@ The last thread of our discussion was about finalizing the Noise hit time distri
 ### 10.17.2018
 
 We looked at the number of unpronged hits distributions in data and MC. We would like to normalized by total number of prongs. Same for the fraction of unpronged and the total cell hits.
+
+### 10.31.2018
+
