@@ -17,8 +17,7 @@ A few samples: MCNP on low energy only, MCNP on high energy only, MCNP on mid-ra
 For setting the ranges to study MCNP, we should use the cutoffs suggested in Ryans talk.
 
 Next Week - Emrah and Matt to use:
-  *NeutronMCAna
-  *CellHitTimeAna
-  *NuMu...
-
+  * NeutronMCAna
+  * CellHitTimeAna
+  * NuMuNeutronAna
 On the new MC samples
